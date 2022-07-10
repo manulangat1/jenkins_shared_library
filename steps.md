@@ -3,4 +3,4 @@
 
 src - helper code  
 
-resources - external lib  , non groovy file
+resources - external lib  , non groovy file for non groovy file
